@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignments\\Ms .NET Assignments\\Assignment01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5F3C6-1483-4437-95C9-5A34AC75722A}|Question03\\Question03.csproj|d:\\assignments\\ms .net assignments\\assignment01\\question03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5F3C6-1483-4437-95C9-5A34AC75722A}|Question03\\Question03.csproj|solutionrelative:question03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7FE63D-FB50-48A8-AA54-458AE19384C9}|Question02\\Question02.csproj|d:\\assignments\\ms .net assignments\\assignment01\\question02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7FE63D-FB50-48A8-AA54-458AE19384C9}|Question02\\Question02.csproj|solutionrelative:question02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA629F66-FEB9-4143-84D7-9AEE8D6C565D}|Question01\\Question01.csproj|d:\\assignments\\ms .net assignments\\assignment01\\question01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA629F66-FEB9-4143-84D7-9AEE8D6C565D}|Question01\\Question01.csproj|solutionrelative:question01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignments\\Ms .NET Assignments\\Assignment01\\Question03\\Program.cs",
+              "RelativeDocumentMoniker": "Question03\\Program.cs",
+              "ToolTip": "D:\\Assignments\\Ms .NET Assignments\\Assignment01\\Question03\\Program.cs",
+              "RelativeToolTip": "Question03\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:13:01.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignments\\Ms .NET Assignments\\Assignment01\\Question02\\Program.cs",
+              "RelativeDocumentMoniker": "Question02\\Program.cs",
+              "ToolTip": "D:\\Assignments\\Ms .NET Assignments\\Assignment01\\Question02\\Program.cs",
+              "RelativeToolTip": "Question02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:43:37.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignments\\Ms .NET Assignments\\Assignment01\\Question01\\Program.cs",
+              "RelativeDocumentMoniker": "Question01\\Program.cs",
+              "ToolTip": "D:\\Assignments\\Ms .NET Assignments\\Assignment01\\Question01\\Program.cs",
+              "RelativeToolTip": "Question01\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:34:58.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

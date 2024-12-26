@@ -1,0 +1,7 @@
+D:\Assignments\Ms .NET Assignments\Assignment01\Question02\bin\Debug\Question02.exe.config
+D:\Assignments\Ms .NET Assignments\Assignment01\Question02\bin\Debug\Question02.exe
+D:\Assignments\Ms .NET Assignments\Assignment01\Question02\bin\Debug\Question02.pdb
+D:\Assignments\Ms .NET Assignments\Assignment01\Question02\obj\Debug\Question02.csproj.AssemblyReference.cache
+D:\Assignments\Ms .NET Assignments\Assignment01\Question02\obj\Debug\Question02.csproj.CoreCompileInputs.cache
+D:\Assignments\Ms .NET Assignments\Assignment01\Question02\obj\Debug\Question02.exe
+D:\Assignments\Ms .NET Assignments\Assignment01\Question02\obj\Debug\Question02.pdb
